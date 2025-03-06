@@ -1,0 +1,6 @@
+name: temasco2
+dependencies:
+  - python=3.11  # Adjust Python version if needed
+  - pip
+  - pip:
+      - -r requirements.txt
